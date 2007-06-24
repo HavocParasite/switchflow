@@ -1,6 +1,6 @@
 = Introduction =
 
-Switch Flow is an OpenSource asynchronous C++ HTTP application framework for developing high performance web applications. 
+Switch Flow is an Open Source asynchronous C++ HTTP application framework for developing high performance web applications. 
 
 The public Subversion can be checked out and built with the following command:
 
@@ -9,5 +9,4 @@ svn co https://svn3.cvsdude.com/baus/switchflow/public switchflow
 cd switchflow
 
 sh ./rebuildall.sh 
-
 
